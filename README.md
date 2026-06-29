@@ -54,7 +54,7 @@ Faculty-Management-System/
 Clone the repository
 
 
-git clone https://github.com/YOUR_USERNAME/Faculty-Management-System.git
+git clone https://github.com/riyanmodassar639/Faculty-Management-System.git
 
 
 Navigate to the project
