@@ -86,7 +86,7 @@ No additional dependencies or installation are required.
 
 ## Live Demo
 
-🌐 
+🌐 https://faculty-management-system-ha9t.vercel.app/
 
 ---
 
